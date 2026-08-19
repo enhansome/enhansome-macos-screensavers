@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,397 | 🐛 102 | 📅 2026-08-18 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18 list thing.
 
 ## Table of Contents
 
@@ -355,7 +355,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 210 | 🐛 4 | 🌐 Swift | 📅 2025-12-09
+[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 209 | 🐛 4 | 🌐 Swift | 📅 2025-12-09
 
 ## Collections
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
