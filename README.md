@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,809 | 🐛 102 | 📅 2026-08-18 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,215 | 🐛 105 | 📅 2026-08-18 list thing.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,809 |
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 407 | 🐛 6 | 🌐 HTML | 📅 2022-09-30
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 407 | 🐛 7 | 🌐 HTML | 📅 2022-09-30
 
 ### Word Clock
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
