@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,693 | 🐛 106 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,905 | 🐛 106 | 📅 2026-08-21 list thing.
 
 ## Table of Contents
 
