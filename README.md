@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,740 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,043 | 🐛 105 | 📅 2026-08-21 list thing.
 
 ## Table of Contents
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,620 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,619 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -179,7 +179,7 @@ Free
 
 Free
 
-[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 341 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
+[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 342 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
 
 ### Fruit
 
@@ -239,7 +239,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 152 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
+[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 153 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
 
 ## Aquarium
 
