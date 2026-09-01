@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,449 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,740 | 🐛 105 | 📅 2026-08-21 list thing.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,449 |
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 409 | 🐛 8 | 🌐 HTML | 📅 2022-09-30
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 411 | 🐛 8 | 🌐 HTML | 📅 2022-09-30
 
 ### Word Clock
 
@@ -81,7 +81,7 @@ Free
 
 > Continuously builds and then solves a maze, while displaying the current time.
 
-[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 132 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
+[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 133 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
 
 ### Evangelion Clock
 
@@ -115,7 +115,7 @@ Free
 
 > Displays the time (and animations) using 24 individual clocks
 
-[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock) ⭐ 145 | 🐛 5 | 🌐 Swift | 📅 2023-01-25
+[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock) ⭐ 146 | 🐛 5 | 🌐 Swift | 📅 2023-01-25
 
 ### Flip Clock Screensaver
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 333 | 🐛 17 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 333 | 🐛 18 | 📅 2025-07-06
 
 ## Video Game
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
