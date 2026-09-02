@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,043 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,405 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -101,7 +101,7 @@ Free
 
 > A simple counter screensaver that counts down to your death.
 
-[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter) ⭐ 33 | 🐛 1 | 🌐 Objective-C | 📅 2025-05-13
+[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter) ⭐ 32 | 🐛 1 | 🌐 Objective-C | 📅 2025-05-13
 
 ### MinimalClock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,964 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,961 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,619 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,620 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -355,7 +355,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 210 | 🐛 4 | 🌐 Swift | 📅 2025-12-09
+[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 211 | 🐛 4 | 🌐 Swift | 📅 2025-12-09
 
 ## Collections
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
