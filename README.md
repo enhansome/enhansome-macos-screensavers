@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,709 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,011 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -193,7 +193,7 @@ Free
 
 > Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
 
-[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble) ⭐ 302 | 🐛 0 | 🌐 Swift | 📅 2022-03-11
+[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble) ⭐ 301 | 🐛 0 | 🌐 Swift | 📅 2022-03-11
 
 Free (Open Source)
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 333 | 🐛 18 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 334 | 🐛 18 | 📅 2025-07-06
 
 ## Video Game
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
