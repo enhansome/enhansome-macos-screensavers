@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,667 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,974 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 592 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 593 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -115,7 +115,7 @@ Free
 
 > Displays the time (and animations) using 24 individual clocks
 
-[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock) ⭐ 146 | 🐛 5 | 🌐 Swift | 📅 2023-01-25
+[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock) ⭐ 145 | 🐛 5 | 🌐 Swift | 📅 2023-01-25
 
 ### Flip Clock Screensaver
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,962 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,961 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,620 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,619 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -179,7 +179,7 @@ Free
 
 Free
 
-[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 342 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
+[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 341 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
 
 ### Fruit
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
