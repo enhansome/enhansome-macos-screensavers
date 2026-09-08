@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,974 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,271 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -109,7 +109,7 @@ Free
 
 Free
 
-[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 133 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
+[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 134 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
 
 ### MultiClock
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,619 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,620 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
