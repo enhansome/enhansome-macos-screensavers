@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,529 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,853 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,620 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,619 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -193,7 +193,7 @@ Free
 
 > Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
 
-[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble) ⭐ 301 | 🐛 0 | 🌐 Swift | 📅 2022-03-11
+[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble) ⭐ 302 | 🐛 0 | 🌐 Swift | 📅 2022-03-11
 
 Free (Open Source)
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
