@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,151 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,455 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 593 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 594 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -101,7 +101,7 @@ Free
 
 > A simple counter screensaver that counts down to your death.
 
-[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter) ⭐ 32 | 🐛 1 | 🌐 Objective-C | 📅 2025-05-13
+[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter) ⭐ 33 | 🐛 1 | 🌐 Objective-C | 📅 2025-05-13
 
 ### MinimalClock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,960 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,961 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,618 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,617 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -219,7 +219,7 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 590 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
+[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 591 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
 
 ### StarWarsScroll
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 334 | 🐛 18 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 335 | 🐛 18 | 📅 2025-07-06
 
 ## Video Game
 
@@ -239,7 +239,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 153 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
+[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 154 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
 
 ## Aquarium
 
@@ -255,7 +255,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from <http://developerexcuses.com> (unofficial).
 
-[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 346 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
+[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 347 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
 
 ### MacOS Kernel Panic
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
