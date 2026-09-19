@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,519 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,873 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -49,13 +49,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,519 |
 
 > Unix Time (epoch) flip clock.
 
-[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 235 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
+[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 234 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
 
 ### Grid Clock
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 410 | 🐛 8 | 🌐 HTML | 📅 2022-09-30
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 410 | 🐛 7 | 🌐 HTML | 📅 2022-09-30
 
 ### Word Clock
 
@@ -239,7 +239,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 154 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
+[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 155 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
 
 ## Aquarium
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
