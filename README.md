@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,636 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,023 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 594 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 595 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 335 | 🐛 18 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 336 | 🐛 18 | 📅 2025-07-06
 
 ## Video Game
 
