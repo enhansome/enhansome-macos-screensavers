@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,246 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,636 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,246 |
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 410 | 🐛 7 | 🌐 HTML | 📅 2022-09-30
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 409 | 🐛 7 | 🌐 HTML | 📅 2022-09-30
 
 ### Word Clock
 
@@ -109,7 +109,7 @@ Free
 
 Free
 
-[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 134 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
+[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 135 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
 
 ### MultiClock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,962 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,961 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -163,7 +163,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 350 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 347 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
 
 Free
 
@@ -255,7 +255,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from <http://developerexcuses.com> (unofficial).
 
-[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 347 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
+[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 346 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
 
 ### MacOS Kernel Panic
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
