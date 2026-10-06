@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,688 | 🐛 107 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,195 | 🐛 107 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,615 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,614 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -163,7 +163,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 347 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 348 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
 
 Free
 
@@ -185,7 +185,7 @@ Free
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 155 | 🐛 5 | 🌐 Swift | 📅 2026-05-18
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 155 | 🐛 4 | 🌐 Swift | 📅 2026-10-06
 
 Free
 
@@ -279,7 +279,7 @@ Free
 
 Free (Open Source)
 
-[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen) ⭐ 334 | 🐛 7 | 🌐 CSS | 📅 2022-04-13
+[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen) ⭐ 334 | 🐛 8 | 🌐 CSS | 📅 2022-04-13
 
 ## Graphics
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
