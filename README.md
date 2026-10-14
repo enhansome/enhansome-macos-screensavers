@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,210 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,661 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,956 | 🐛 18 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,957 | 🐛 18 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,610 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,612 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -255,7 +255,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from <http://developerexcuses.com> (unofficial).
 
-[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 346 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
+[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 347 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
 
 ### MacOS Kernel Panic
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
