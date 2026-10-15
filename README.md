@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,661 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,007 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 597 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 598 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -163,7 +163,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 348 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⚠️ Archived
 
 Free
 
@@ -279,7 +279,7 @@ Free
 
 Free (Open Source)
 
-[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen) ⭐ 334 | 🐛 8 | 🌐 CSS | 📅 2022-04-13
+[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen) ⭐ 335 | 🐛 8 | 🌐 CSS | 📅 2022-04-13
 
 ## Graphics
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

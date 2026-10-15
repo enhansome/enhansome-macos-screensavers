@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-14T00:39:44.849Z",
+    "last_updated": "2026-10-15T00:09:13.907Z",
     "original_repository_info": {
       "archived": true,
       "description": "🍎 🖥 🎆 A curated list of screensavers for Mac OS X",
@@ -10,10 +10,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-27T22:06:19Z",
-      "open_issues": 7,
+      "open_issues": 9,
       "owner": "agarrharr",
       "repo": "awesome-macos-screensavers",
-      "stars": 4423,
+      "stars": 4422,
       "topics": [
         "awesome",
         "awesome-list",
