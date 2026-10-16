@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,506 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,001 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -185,7 +185,7 @@ Free
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 156 | 🐛 4 | 🌐 Swift | 📅 2026-10-06
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 157 | 🐛 4 | 🌐 Swift | 📅 2026-10-06
 
 Free
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
