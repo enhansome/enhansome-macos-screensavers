@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,164 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,652 | 🐛 105 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 21,062 | 🐛 18 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 21,082 | 🐛 18 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,612 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,613 | 🐛 31 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
