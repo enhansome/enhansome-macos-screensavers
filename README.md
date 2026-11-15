@@ -2,7 +2,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,480 | 🐛 104 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,966 | 🐛 104 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -81,7 +81,7 @@ Free
 
 > Continuously builds and then solves a maze, while displaying the current time.
 
-[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 134 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
+[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 135 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
 
 ### Evangelion Clock
 
@@ -109,7 +109,7 @@ Free
 
 Free
 
-[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 135 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
+[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 134 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
 
 ### MultiClock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 21,271 | 🐛 18 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 21,275 | 🐛 18 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -185,7 +185,7 @@ Free
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 158 | 🐛 4 | 🌐 Swift | 📅 2026-10-06
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 158 | 🐛 3 | 🌐 Swift | 📅 2026-11-14
 
 Free
 
@@ -377,4 +377,4 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
